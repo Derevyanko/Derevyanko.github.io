@@ -1,2 +1,2 @@
-# alexander-derevyanko.github.io.github.io
+# alexander-derevyanko.github.io
 Frontend Test Task from CodeIT
